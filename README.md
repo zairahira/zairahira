@@ -10,3 +10,9 @@
 - 🔭 I’m currently working on Python and Linux.
 - 🌱 I’m currently learning advanced Git
 - 💬 I'm an author at @freeCodeCamp.
+
+<p align = "center">
+
+  <img width = "60%" src = "https://github-readme-stats.vercel.app/api?username=zairahira&show_icons=true&theme=nightowl"/>
+
+</p>
