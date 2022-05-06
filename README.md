@@ -1,11 +1,12 @@
 <h1 align="center"> Zaira Hira </h1>
 
-<div align="center">
-<img width="30%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
-<img width="30%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
-<img width="30%" height="203px" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0641.jpg"/>
+<div align="center" height="500px">
+<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/>
   
 </div>
+
 
 
 
