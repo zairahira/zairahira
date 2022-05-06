@@ -25,8 +25,6 @@
 
 - 💬 Ask me about **Linux, Technical Writing, Python, Career Advice.**
 
-- 📫 How to reach me **zairahira@gmail.com**
-
 - ⚡ Hobbies **I love to draw and take aesthetic photos.**
 
 
