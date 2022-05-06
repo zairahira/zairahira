@@ -1,22 +1,51 @@
-### Hi there 👋
+<h1 align="center"> Zaira Hira </h1>
 
-#### My name is Zaira and I am DevOps consultant. I also author useful articles centered around Linux and Python.
+<div align="center">
+<img width="30%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
+<img width="30%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
+<img width="30%" height="203px" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0641.jpg"/>
+  
+</div>
+
+
+
+<h3 align="center"> Hi and thanks for stopping by 👋 </h2>
+
+
+<h2 align="center"> About me </h2>
+
+<h3 align="center">I am a Linux enthusiast transitioning into DevOps. I love to write and teach developers through my beginner friendly  articles.</h3>
 
 <!--
 **zairahira/zairahira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+- 🌱 I’m currently learning **Python, Docker and advanced Git.**
 
-- 🔭 I’m currently working on Python and Linux.
-- 🌱 I’m currently learning advanced Git
-- 💬 I'm an author at @freeCodeCamp.
+- 💬 Ask me about **Linux, Technical Writing, Python, Career Advice.**
 
-<p align = "center">
+- 📫 How to reach me **zairahira@gmail.com**
 
-  <img width = "60%" src = "https://github-readme-stats.vercel.app/api?username=zairahira&show_icons=true&theme=nightowl"/>
+- ⚡ Hobbies **I love to draw and take aesthetic photos.**
 
+
+
+<h2 align="center"> Blog </h2>
+- 📝 I regularly write articles on freeCodeCamp [https://www.freecodecamp.org/news/author/zaira/](https://www.freecodecamp.org/news/author/zaira/)
+
+
+
+
+<h2 align="center">Connect with me</h2>
+<p align="left">
+<a href="https://twitter.com/hira_zaira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hira_zaira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zaira-hira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaira-hira" height="30" width="40" /></a>
 </p>
 
 
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zairahira@gmail.com)](mailto:zairahira@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-zaira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zaira-hira/)](https://www.linkedin.com/in/zaira-hira/) [![Twitter Badge](https://img.shields.io/badge/-zaira-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hira_zaira)](https://twitter.com/hira_zaira) ![Profile View Counter](https://komarev.com/ghpvc/?username=zairahira)
+
+<h2 align="center">Languages and Tools</h2>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
