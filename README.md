@@ -30,7 +30,8 @@
 
 
 <h2 align="center"> Blog </h2>
-- 📝 I regularly write articles on freeCodeCamp [https://www.freecodecamp.org/news/author/zaira/](https://www.freecodecamp.org/news/author/zaira/)
+
+- 📝 I regularly write articles on [freeCodeCamp](https://www.freecodecamp.org/news/author/zaira/)
 
 
 
