@@ -15,7 +15,7 @@
 
 <h2 align="center"> About me </h2>
 
-<h3 align="center">I am a Linux enthusiast transitioning into DevOps. I love to write and teach developers through my beginner friendly  articles.</h3>
+<h3 align="center">I am a Linux enthusiast transitioning deeper into DevOps. I love to write and teach developers through my beginner friendly  articles.</h3>
 
 <!--
 **zairahira/zairahira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
