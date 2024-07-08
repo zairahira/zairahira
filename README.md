@@ -1,19 +1,10 @@
 <h1 align="center"> Zaira Hira </h1>
-
-<div align="center" height="500px">
-<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/>
-  
 </div>
 
 
 
 
-<h3 align="center"> Hi and thanks for stopping by 👋 </h2>
-
-
-<h2 align="center"> About me </h2>
+<h3 align="center"> Hi 👋 </h2>
 
 <h3 align="center">I am a Linux enthusiast transitioning deeper into DevOps. I love to write and teach developers through my beginner friendly  articles.</h3>
 
@@ -21,11 +12,13 @@
 **zairahira/zairahira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning **Python, Docker and advanced Git.**
+- 👩‍💻 I am developing a front-end interactive certification. 
+
+- 🌱 I’m currently learning and teaching **Python, Docker and advanced Git.**
 
 - 💬 Ask me about **Linux, Technical Writing, Python, Career Advice.**
 
-- ⚡ Hobbies **I love to draw and take aesthetic photos.**
+- ⚡ Visit my opensource [community](https://github.com/TheCodeSurge/thecodesurge), where you can teach as well.
 
 
 
